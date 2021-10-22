@@ -10,8 +10,8 @@ academia:
     degree: M.Phil.
     end_date: "2013"
     institution: University of Cambridge, Trinity College
-    major: Software Engineering
-    other_info: graduated with Distinction 
+    major: Management Science and Operations, with Distinction
+    other_info: Competitive dynamic pricing
     start_date: "2012"
 - course:
     degree: B.A.
@@ -51,5 +51,5 @@ title: about
 
 
 
-[1]: london.edu/phd/profiles/caleb-jee-hyun-park
-[2]: mgmt.ucl.ac.uk/people/jeehyuncalebpark
+[1]: https://www.london.edu/phd/profiles/caleb-jee-hyun-park
+[2]: https://www.mgmt.ucl.ac.uk/people/jeehyuncalebpark

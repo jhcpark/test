@@ -1,17 +1,18 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Design and evaluation of field experiments in retail store networks"
 authors:
-- Your Full Name
-- Another Researcher
+- Caleb JH Park
+- Jeremie Gallien
+- Adam J. Mersereau
 date: "2018-09-01"
 
-publication: "Journal of Machine Learning"
+publication: "Working paper"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793830
+    code: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793830
+    slides: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793830
+    
 
 ---
 

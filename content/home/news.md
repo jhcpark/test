@@ -6,9 +6,9 @@ weight: 2
 content_type: "news"
 
 section_settings:
-    show_section: true
-    title: ''
-    subtitle: 'news section subtitle'
+    show_section: false
+    title: ' '
+    subtitle: ' '
 ---
 
 home/news.md

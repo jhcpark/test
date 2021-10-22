@@ -1,17 +1,17 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Structural Estimation of Combinatorial Auctions"
 authors:
-- Your Full Name
-- Another Researcher
+- Caleb JH Park
+- Gah-Yi Ban
+- Richard Steinberg
 date: "2018-09-01"
 
-publication: "Journal of Machine Learning"
+publication: "Working paper"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793830
+    code: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793830
+    slides: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2793830
 
 ---
 
