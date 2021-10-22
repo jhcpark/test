@@ -23,10 +23,10 @@ academia:
 affiliations:
 - affiliation:
     email: cpark@london.edu
-    name: London Business School a
+    name: London Business School
     title: Ph.D.
 blog: true
-cv: cv.pdf
+cv: Caleb_Resume_19Oct.pdf
 date: "2020-10-20T17:51:47+03:30"
 draft: false
 full_name: YOUR_NAME
